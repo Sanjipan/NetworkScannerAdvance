@@ -1,6 +1,6 @@
 # Network Scanner Advance
 
-#### **Fast efficient Network Scanner Made in Python.**
+#### **A Fast efficient Network Scanner Made in Python.**
 ######
 *This program **Scannes range of ports** at a time making it more **efficient** and **fast** then other scanners.*
 ######
