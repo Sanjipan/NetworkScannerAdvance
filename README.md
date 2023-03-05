@@ -1,4 +1,4 @@
-# Network Scanner Advance
+# Network Scanner (Advance)
 
 #### **A Fast efficient Network Scanner Made in Python.**
 ######
